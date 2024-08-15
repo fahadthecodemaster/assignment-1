@@ -1,0 +1,10 @@
+.hero-img{
+    width: 100%;
+}
+.hero-info{
+    position: absolute;
+    bottom: 100px;
+    color: #fff;
+    font-weight: 500px;
+    left: 100px;
+}
